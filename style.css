@@ -1,0 +1,17 @@
+/* style.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#clicker-container {
+    text-align: center;
+}
+
+#click-button {
+    padding: 10px;
+    font-size: 16px;
+}
